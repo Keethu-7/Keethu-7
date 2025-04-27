@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthana J</h1>
-<h3 align="center">I'm a 3rd year engineering student at Govt. Model Engineering College, Thrikkakkara. Currently pursuing computer science, I'm passionate on software development.</h3>
+<h3 align="center">I'm a 3rd year computer science engineering student at Govt. Model Engineering College, Thrikkakkara. I'm passionate on software development and love to explore new technologies.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
